@@ -1,0 +1,1 @@
+sourceset_dependencies='{":sdk/main":[],":sdk/release":[]}'

@@ -1,0 +1,28 @@
+OPI Android SDK Binary License
+Copyright © 2026 Richard Hug
+
+These terms apply to the compiled OPI Android SDK distributed by Richard Hug.
+They do not grant access to, or rights to use or redistribute, SDK source code.
+
+Permission is granted to use the compiled SDK, including in commercial
+software, to integrate compatible OPI payment terminal environments into
+POS/ECR and other applications, and to bundle the unmodified compiled SDK
+with those applications and distribute them to customers. Retain this license
+and all copyright and attribution notices with the bundled SDK.
+
+Without written permission from Richard Hug, you may not modify the SDK
+binary, resell it as a standalone SDK, republish or mirror the standalone SDK,
+present it as your own standalone SDK or product, or remove copyright or
+attribution information. These restrictions apply only to the extent
+permitted by applicable law. All other rights are reserved.
+
+THE SDK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. TO THE EXTENT PERMITTED BY APPLICABLE LAW, RICHARD HUG SHALL
+NOT BE LIABLE FOR CLAIMS, DAMAGES OR OTHER LIABILITY ARISING FROM USE OF THE
+SDK, INCLUDING LOST REVENUE, LOST DATA OR PAYMENT PROCESSING INTERRUPTION.
+Nothing in these terms excludes liability that cannot lawfully be excluded.
+
+Maintenance and support are best effort only. No SLA, guaranteed response or
+resolution time, release schedule, or obligation to provide fixes or support
+is granted. Third-party components retain their own licenses and notices.
