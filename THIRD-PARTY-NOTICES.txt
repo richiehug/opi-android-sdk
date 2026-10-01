@@ -1,0 +1,8 @@
+Runtime dependency notices
+
+The OPI Android SDK license applies to the SDK itself. Runtime dependencies retain their own licenses and are not relicensed by Richard Hug.
+
+Kotlin and kotlinx.coroutines retain their upstream Apache 2.0 licenses.
+https://github.com/Kotlin/kotlinx.coroutines/blob/master/LICENSE.txt
+
+The standalone AAR does not embed these dependencies; applications must resolve them as documented in integration.md. Maven metadata declares them transitively.
